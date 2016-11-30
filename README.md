@@ -10,6 +10,6 @@ Consists of Hello World program in 3 languages:
 
 To build the C/C++ program run
 * #cmake .
-* ##make
+* #make
 
 The Python program can be executed using python 2.x interpreter
